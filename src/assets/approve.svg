@@ -1,0 +1,12 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path id="ic_16px_bullit" fill-rule="evenodd" clip-rule="evenodd"
+          d="M16 8C16 12.4183 12.4183 16 8 16C3.58172 16 0 12.4183 0 8C0 3.58172 3.58172 0 8 0C10.753 0 13.1812 1.39057 14.6205 3.50763L8.88694 9.41775C8.6255 9.68724 8.20163 9.68724 7.94019 9.41775L6.14283 7.56505C5.88139 7.29556 5.45752 7.29556 5.19608 7.56505C4.93464 7.83454 4.93464 8.27146 5.19608 8.54095L6.99344 10.3937C7.77775 11.2021 9.04938 11.2021 9.8337 10.3937L15.3112 4.74752C15.7539 5.74124 16 6.84188 16 8Z"
+          fill="url(#paint0_linear)"/>
+    <defs>
+        <linearGradient id="paint0_linear" x1="8.28458" y1="-8.14229" x2="-8" y2="7.85771"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#006DB6"/>
+            <stop offset="1" stop-color="#57A9E0"/>
+        </linearGradient>
+    </defs>
+</svg>
